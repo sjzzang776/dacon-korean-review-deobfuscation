@@ -6,6 +6,8 @@
 >
 > 참고한 저장소: **[SoleMin/DACON-korean_review_deobfuscator](https://github.com/SoleMin/DACON-korean_review_deobfuscator)**
 > 이 저장소의 학습 증강 아이디어와 KoCharELECTRA 사용 아이디어를 가져와 제 구조에 맞게 바꿔 적용했습니다(아래 「참고 저장소에서 가져온 것」).
+>
+> **그림으로 한 번에 보기: [00_한눈에_보기.pdf](00_한눈에_보기.pdf)** (8쪽, 구조·아이디어·단계별 점수 정리. GitHub에서 바로 열림)
 
 ![단계별 검증 F1](docs/figures/stages.svg)
 
