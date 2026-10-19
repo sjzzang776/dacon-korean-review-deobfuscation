@@ -1,0 +1,14 @@
+# 대회 규정: 데이터·예측 결과는 공개하지 않음
+data/
+open.zip
+outputs/
+outputs10/
+models/
+*.pt
+*.pkl
+submission*.csv
+val_pred*.csv
+# 로컬 환경
+.vscode/
+.playwright-mcp/
+__pycache__/
